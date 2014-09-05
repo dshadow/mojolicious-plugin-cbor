@@ -8,4 +8,3 @@
 	$ make tests
 	$ sudo make install
 
-## License
