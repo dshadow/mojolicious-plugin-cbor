@@ -1,5 +1,7 @@
 
-# Mojolicious::Plugin::CBOR - render a CBOR response with Mojolicious
+# Mojolicious::Plugin::CBOR
+
+	Render a CBOR::XS response with Mojolicious
 
 ## Installation
 
